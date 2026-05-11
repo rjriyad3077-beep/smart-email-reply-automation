@@ -40,7 +40,7 @@ An intelligent AI-powered email automation workflow built with n8n.
 
 ## Workflow Screenshot
 
-![Workflow](screenshots/workflow-main.png)
+![Workflow](workflow-main.png)
 
 Example:
 - workflow-main.png
